@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1588438011 source:c:\jorge facu\codeblocks\guia_5_ejercicio_3\main.c
+	<stdio.h>
+	<stdlib.h>
+
